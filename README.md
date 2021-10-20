@@ -1,16 +1,37 @@
-### Hi there 👋
+## 👋 Olá, sou **Nicolas Katsuji Nagano**
 
-<!--
-**Nicolaskn95/Nicolaskn95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----- 
 
-Here are some ideas to get you started:
+Atualmente Procurando aprendizado e especialização em JavaScript, A procura de opurtunidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----- 
+
+ - 🎓 **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
+ - 💼 **Em busca de ser Progrmador de JavaScript* na [Empresa](https://www.google.com/)
+
+
+
+## 🚀 Habilidades
+
+**Linguagens e Bibliotecas**
+
+ - JavaScript
+ - Node.js
+ - C
+ - Excel
+ 
+**Ferramentas de Desenvolvimento**
+
+ - Visual Studio Code
+ - Jira
+ - Trello
+ - Git
+ - Github
+
+## 🌐 Redes Sociais
+
+<a href="https://www.linkedin.com/in/<URL-LINKEDIN>" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:<nicolasjap@hotmail.com>" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
