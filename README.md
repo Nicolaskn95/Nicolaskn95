@@ -19,6 +19,7 @@ Atualmente Procurando aprendizado e especialização em JavaScript, a procura de
  - Node.js
  - C
  - Excel
+ - Robot Framework
  
 **Ferramentas de Desenvolvimento**
 
