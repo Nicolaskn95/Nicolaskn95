@@ -16,7 +16,7 @@ Atualmente Procurando aprendizado e especialização em JavaScript, a procura de
 **Linguagens e Bibliotecas**
 
  - JavaScript
- - Node.js
+ - Python
  - C
  - Excel
  - Robot Framework
