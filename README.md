@@ -25,7 +25,6 @@ Atualmente Procurando aprendizado e especialização em JavaScript, a procura de
 
  - Visual Studio Code
  - Jira
- - Trello
  - Git
  - Github
 
