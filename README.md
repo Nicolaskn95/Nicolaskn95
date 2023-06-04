@@ -2,12 +2,12 @@
 
 ----- 
 
-Atualmente Procurando aprendizado e especialização em JavaScript, a procura de opurtunidades.
+Atualmente Procurando aprendizado e especialização em Logicas e linguagens de programação, a procura de opurtunidades.
 
 ----- 
 
  - 🎓 **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
- - 💼 **Em busca de ser Progrmador de JavaScript** 
+ - 💼 **Em busca de ser Desenvolvedor Mobile** 
 
 
 
@@ -16,17 +16,23 @@ Atualmente Procurando aprendizado e especialização em JavaScript, a procura de
 **Linguagens e Bibliotecas**
 
  - JavaScript
- - Python
+ - Java
+ - Swift
+ - Kotlin
  - C
+ - C#
  - Excel
  - Robot Framework
  
 **Ferramentas de Desenvolvimento**
 
  - Visual Studio Code
+ - Visual Studio
+ - Net Beans
  - Jira
  - Git
  - Github
+ - Xcode
 
 <img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username={username}">
 
