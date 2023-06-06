@@ -2,7 +2,7 @@
 
 ----- 
 
-Atualmente Procurando aprendizado e especialização em Logicas e linguagens de programação, a procura de opurtunidades.
+Atualmente procurando aprendizado e especialização em Desenvolver aplicativos moveis com os sistemas android e iOS.
 
 ----- 
 
