@@ -26,6 +26,7 @@ Atualmente Procurando aprendizado e especialização em Logicas e linguagens de 
  
 **Ferramentas de Desenvolvimento**
 
+ - Android Studio
  - Visual Studio Code
  - Visual Studio
  - Net Beans
