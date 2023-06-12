@@ -2,7 +2,7 @@
 
 ----- 
 
-Atualmente procurando aprendizado e especialização em Desenvolver aplicativos moveis com os sistemas android e iOS.
+Atualmente procurando aprendizado e especialização em Desenvolver aplicativos moveis para os sistemas operacionais Android e iOS.
 
 ----- 
 
