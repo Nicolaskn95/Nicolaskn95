@@ -15,7 +15,6 @@ Atualmente procurando aprendizado e especialização em Desenvolver aplicativos 
 
 **Linguagens e Bibliotecas**
 
- - JavaScript
  - Java
  - Swift
  - Kotlin
