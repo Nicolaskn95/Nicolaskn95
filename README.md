@@ -17,7 +17,7 @@ Atualmente procurando aprendizado e especialização em Desenvolver aplicativos 
 
  - Java
  - Swift
- - Kotlin
+ - Typescript
  - C
  - C#
  - Excel
@@ -25,12 +25,12 @@ Atualmente procurando aprendizado e especialização em Desenvolver aplicativos 
  
 **Ferramentas de Desenvolvimento**
 
- - Android Studio
  - Visual Studio Code
  - Visual Studio
  - Net Beans
  - Jira
  - Git
+ - Trello
  - Github
  - Xcode
 
