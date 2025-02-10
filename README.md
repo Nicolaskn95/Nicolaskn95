@@ -2,7 +2,7 @@
 
 ----- 
 
-Atualmente procurando aprendizado e especialização em Desenvolver aplicativos moveis para os sistemas operacionais Android e iOS.
+Atualmente, busco aprendizado e especialização em soluções tecnológicas para problemas do mundo real, com foco no desenvolvimento de aplicações web responsivas e mobile.
 
 ----- 
 
