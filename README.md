@@ -6,7 +6,7 @@ Atualmente procurando aprendizado e especialização em Desenvolver aplicativos 
 
 ----- 
 
- - 🎓 **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
+ - 🎓 **Desenvolvimento de Software Multiplataorma** na [FATEC/Votorantim](https://fatecvotorantim.cps.sp.gov.br/)
  - 💼 **Em busca de ser Desenvolvedor Mobile** 
 
 
