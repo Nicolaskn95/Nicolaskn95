@@ -7,7 +7,7 @@ Atualmente, busco aprendizado e especialização em soluções tecnológicas par
 ----- 
 
  - 🎓 **Desenvolvimento de Software Multiplataorma** na [FATEC/Votorantim](https://fatecvotorantim.cps.sp.gov.br/)
- - 💼 **Em busca de ser Desenvolvedor Mobile** 
+ - 💼 **Em busca de soluções para problemas, aplicando as tecnologias aprendidas ao longo da minha carreira profissional.** 
 
 
 
@@ -18,7 +18,6 @@ Atualmente, busco aprendizado e especialização em soluções tecnológicas par
  - Java
  - Swift
  - Typescript
- - C
  - C#
  - Excel
  - Robot Framework
