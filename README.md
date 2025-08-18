@@ -17,7 +17,7 @@ Atualmente, busco aprendizado e especialização em soluções tecnológicas par
 
  - Java
  - Swift
- - Typescript
+ - javascript(Typescript)
  - C#
  - Excel
  - Robot Framework
