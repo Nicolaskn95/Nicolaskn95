@@ -1,47 +1,37 @@
-## 👋 Olá, sou **Nicolas Katsuji Nagano**
+# Hi, I'm Nicolas Nagano! 👋
 
------ 
+I am a **Software Engineer** and **Full-stack Developer** based in Brazil. Currently, I am studying Multiplatform Software Development at **FATEC*.
 
-Atualmente, busco aprendizado e especialização em soluções tecnológicas para problemas do mundo real, com foco no desenvolvimento de aplicações web responsivas e mobile.
+I enjoy building scalable web applications and automating processes to solve real-world problems.
 
------ 
+---
 
- - 🎓 **Desenvolvimento de Software Multiplataorma** na [FATEC/Votorantim](https://fatecvotorantim.cps.sp.gov.br/)
- - 💼 **Em busca de soluções para problemas, aplicando as tecnologias aprendidas ao longo da minha carreira profissional.** 
+### 🛠️ Technologies & Tools
 
+- **Backend:** Node.js, TypeScript, Java, PrismaORM, MongoDB.
+- **Frontend:** React.js, Next.js, Chakra UI, Tailwind CSS.
+- **Automation:** Robot Framework (RPA), Python.
+- **Tools:** Git, Docker, GitHub Actions, Vercel, DigitalOcean.
 
+---
 
-## 🚀 Habilidades
+### 🚀 Featured Projects
 
-**Linguagens e Bibliotecas**
+- **[Portfolio](https://portfolio-psi-one-b6yhm88obn.vercel.app/)** - Personal website featuring my projects and an AI-powered chat agent (n8n + Ollama).
+- **Karaoke/Music Catalog** - A web app integrated with the Genius API.
+- **De Olho Na Nota** - A personal finance tool using OCR for supermarket receipts.
 
- - Java
- - Swift
- - javascript(Typescript)
- - C#
- - Excel
- - Robot Framework
- 
-**Ferramentas de Desenvolvimento**
+---
 
- - Visual Studio Code
- - Visual Studio
- - Net Beans
- - Jira
- - Git
- - Trello
- - Github
- - Xcode
+### 📊 GitHub Stats
 
-<img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username={username}">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolaskn95&show_icons=true&theme=radical" alt="Nicolas's GitHub Stats" />
+</p>
 
+---
 
-## 🌐 Redes Sociais
+### 📫 Connect with me:
 
-<a href="linkedin.com/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:<nicolasjap@hotmail.com>" target="_blank"> <img src=	"https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-</a>
-
-
+- **LinkedIn:** [linkedin.com/in/nicolaskn](https://www.linkedin.com/in/nicolas-katsuji-nagano/)
+- **Email:** nicolasjap@hotmail.com
