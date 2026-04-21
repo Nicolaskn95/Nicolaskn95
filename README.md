@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas Nagano! 👋
 
-I am a **Software Engineer** and **Full-stack Developer** based in Brazil. Currently, I am studying Multiplatform Software Development at **FATEC*.
+I am a **Software Engineer** and **Full-stack Developer** based in Brazil. Currently, I am studying Multiplatform Software Development at **FATEC**.
 
 I enjoy building scalable web applications and automating processes to solve real-world problems.
 
